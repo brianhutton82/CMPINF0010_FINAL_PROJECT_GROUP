@@ -27,4 +27,4 @@
 </table>
   
 <h3>Repository Overview</h3>
-  <p>This repository explores several datasets from the <a href="">Western Pennsylvania Regional Data Center</a>which contain environmental information such as air quality data, illegal dump site data, and ~ERICS METRIC~ for several neighborhoods in Pittsburgh and its surrounding regions.</p>
+  <p>This repository explores several datasets from the <a href="">Western Pennsylvania Regional Data Center</a> which contain environmental information such as air quality data, illegal dump site data, and ~ERICS METRIC~ for several neighborhoods in Pittsburgh and its surrounding regions.</p>
