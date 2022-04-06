@@ -15,7 +15,7 @@
     <th>Eric's Data</th>
   </tr>
   <tr>
-    <td>The data set used for Air Quality Indexes came from the Western Pennsylvania Regional Data Center. Specifically, this data set features air quality data collected from the Allegheny Health Department's air quality monitors which are placed in 15 different areas in Pittsburgh and its surrounding areas.</td>
+    <td>This data set features air quality data collected from the Allegheny Health Department's air quality monitors throughout Pittsburgh.</td>
     <td>~Aziz~ add description of your data set</td>
     <td>~Eric~ add description of your data set</td>
   </tr>
