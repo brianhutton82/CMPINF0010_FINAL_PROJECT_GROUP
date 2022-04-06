@@ -1,11 +1,30 @@
-<h1>CMPINF0010 FINAL PROJECT: Environmental Data in Pittsburgh</h1>
-Repository for Big Ideas Group Final Project
+<h1>We need a team name</h1>
 
-<h3>Introduction: </h3>
-<p>Introduce the project, your approach, talk about the process of how you came up with the metric and some alternatives you may have explored.</p>
-<h3>The Metric:</h3>
-<p>Describe your metric, what features are you measuring. What datasets are you using?</p>
-<h3>The Best Neighborhood:</h3>
-<p>Apply the metric from the previous section to determine the best neighborhood in Pittsburgh. Beyond just executing code, provide a narrative about why you think this is the best neighborhood. Incorporate a data visualization, perhaps to rank all of the neighborhoods or show a neighborhood’s best-ness over time. The key is to make a data driven argument.</p>
-<h3>Conclusion:</h3>
-<p>Reflect on how the data driven determination of “best neighborhood” is the same or different from your personal favorite neighborhood. Each member of the group should write their own response to this.</p>
+<h3>Team Members<h3>
+<ul>
+  <li>Brian Hutton: beh82@pitt.edu</li>
+  <li>Aziz Bohra: </li>
+  <li>Eric:</li>
+</ul>
+  
+<h3>Datasets</h3>
+<table>
+  <tr>
+    <th>Brian's Data</th>
+    <th>Aziz's Data</th>
+    <th>Eric's Data</th>
+  </tr>
+  <tr>
+    <td>The data set used for Air Quality Indexes came from the Western Pennsylvania Regional Data Center. Specifically, this data set features air quality data collected from the Allegheny Health Department's air quality monitors which are placed in 15 different areas in Pittsburgh and its surrounding areas.</td>
+    <td>~Aziz~ add description of your data set</td>
+    <td>~Eric~ add description of your data set</td>
+  </tr>
+  <tr>
+    <td><a href="https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b?inner_span=True">AQI Data Link</a></td>
+    <td><a href="https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites">Illegal Dump Site Data Link</a></td>
+    <td><a href="">~Eric~ add link to your dataset</a></td>
+  </tr>
+</table>
+  
+<h3>Repository Overview</h3>
+  <p>This repository explores several datasets from the <a href="">Western Pennsylvania Regional Data Center</a>which contain environmental information such as air quality data, illegal dump site data, and ~ERICS METRIC~ for several neighborhoods in Pittsburgh and its surrounding regions.</p>
