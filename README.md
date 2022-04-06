@@ -20,8 +20,8 @@
     <td>~Eric~ add description of your data set</td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b?inner_span=True">AQI Data Link</a></td>
-    <td style="text-align: center;"><a href="https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites">Illegal Dump Site Data Link</a></td>
+    <td style="text-align:center"><a href="https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b?inner_span=True" "text-align:center">AQI Data Link</a></td>
+    <td style="text-align:center"><a href="https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites">Illegal Dump Site Data Link</a></td>
     <td><a href="">~Eric~ add link to your dataset</a></td>
   </tr>
 </table>
