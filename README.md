@@ -3,7 +3,7 @@
 <h3>Team Members<h3>
 <ul>
   <li>Brian Hutton: beh82@pitt.edu</li>
-  <li>Aziz Bohra: </li>
+  <li>Aziz Bohra: azb27@pitt.edu </li>
   <li>Eric:</li>
 </ul>
   
