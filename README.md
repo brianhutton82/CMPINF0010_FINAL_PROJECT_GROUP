@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>This data set features air quality data collected from the Allegheny Health Department's air quality monitors throughout Pittsburgh.</td>
-    <td>This data set features information on illegal dump sites, their type of trash, and the estimate tons of trash at each site collected by Alleghaeny Cleanways.</td>
+    <td>This data set features information on illegal dump sites, their type of trash, and the estimate tons of trash at each site collected by Allegheny Cleanways.</td>
     <td>This data set features information on incidents of fire responded to by the Pittsburgh Bureau of Fire.</td>
   </tr>
   <tr>
