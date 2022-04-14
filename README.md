@@ -1,4 +1,4 @@
-<h1>We need a team name</h1>
+<h1>Random Team Name</h1>
 
 <h3>Team Members<h3>
 <ul>
